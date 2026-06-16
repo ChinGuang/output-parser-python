@@ -1,4 +1,3 @@
-from langchain_core.output_parsers import CommaSeparatedListOutputParser
 from langchain_core.output_parsers import JsonOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 from typing import List
